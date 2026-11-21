@@ -1,0 +1,82 @@
+[
+  {
+    "id": "01",
+    "name": "Sample Banner 01",
+    "path": "assets/banners/01.jpg"
+  },
+  {
+    "id": "02",
+    "name": "Sample Banner 02",
+    "path": "assets/banners/02.jpg"
+  },
+  {
+    "id": "03",
+    "name": "Sample Banner 03",
+    "path": "assets/banners/03.jpg"
+  },
+  {
+    "id": "04",
+    "name": "Sample Banner 04",
+    "path": "assets/banners/04.jpg"
+  },
+  {
+    "id": "05",
+    "name": "Sample Banner 05",
+    "path": "assets/banners/05.jpg"
+  },
+  {
+    "id": "06",
+    "name": "Sample Banner 06",
+    "path": "assets/banners/06.jpg"
+  },
+  {
+    "id": "07",
+    "name": "Sample Banner 07",
+    "path": "assets/banners/07.jpg"
+  },
+  {
+    "id": "08",
+    "name": "Sample Banner 08",
+    "path": "assets/banners/08.jpg"
+  },
+  {
+    "id": "09",
+    "name": "Sample Banner 09",
+    "path": "assets/banners/09.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Sample Banner 10",
+    "path": "assets/banners/10.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Sample Banner 11",
+    "path": "assets/banners/11.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Sample Banner 12",
+    "path": "assets/banners/12.jpg"
+  },
+  {
+    "id": "13",
+    "name": "Sample Banner 13",
+    "path": "assets/banners/13.jpg"
+  },
+  {
+    "id": "14",
+    "name": "Sample Banner 14",
+    "path": "assets/banners/14.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Sample Banner 15",
+    "path": "assets/banners/15.jpg"
+  },
+  {
+    "id": "16",
+    "name": "Sample Banner 16",
+    "path": "assets/banners/16.jpg"
+  }
+]
